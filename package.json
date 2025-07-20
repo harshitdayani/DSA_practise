@@ -1,0 +1,12 @@
+{
+  "name": "dsa-practise",
+  "version": "1.0.0",
+  "description": "Node.js app for solving DSA problems.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["DSA", "practice", "nodejs"],
+  "author": "",
+  "license": "MIT"
+}
